@@ -139,6 +139,8 @@ p{
  .feature-box {
    padding: 5%;
    padding-top: 0;
+   height: auto;
+   width: auto;
  }
  .icon {
    color: #ef8172;
