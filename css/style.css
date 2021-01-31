@@ -189,7 +189,10 @@ p{
   position: relative;
   padding: 100px;
 }
-
+#pricing .card {
+  width: auto;
+}
+  
 .card-1 {
   opacity: 0;
 }
